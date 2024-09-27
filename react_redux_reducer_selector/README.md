@@ -1,0 +1,1 @@
+This is the readme for the react_redux_reducer_selector project
