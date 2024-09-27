@@ -1,0 +1,1 @@
+This is the readme for the 0x08_react_redux_action_creator_normalizr project
